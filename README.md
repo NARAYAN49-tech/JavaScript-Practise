@@ -1,2 +1,2 @@
-javascript practise is imp.
+JavaScript practise is imp.
 more practice more benefits. 
